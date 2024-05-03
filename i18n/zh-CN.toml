@@ -1,0 +1,14 @@
+[filtering-for]
+  other = "Filtering for"
+
+[no-posts]
+  other = "还没有文章"
+
+[email-subject]
+  other = "RE:"
+
+[email-reply]
+  other = "邮件回复此文章"
+
+[skip-link]
+  other = "跳转到正文"
