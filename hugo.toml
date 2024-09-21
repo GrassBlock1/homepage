@@ -98,7 +98,7 @@ disableKinds = ['rss']
     weight = 10
   [[menus.main]]
     name = 'Lab'
-    url= "https://lab.imgb.space"
+    url= "https://lab.gb0.dev"
     weight = 20
   [[menus.main]]
     name = 'About'

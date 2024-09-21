@@ -6,7 +6,7 @@ date = 2024-03-27T17:57:05+08:00
 
 这里是没想好正经名字的草方块，aka 草草、GB、草格子、草师傅、~~韭菜盒子~~
 
-目前是脆皮英专生，偶尔会[写东西](https://blog.imgb.space)以及在自家[实验室](https://lab.imgb.space)折腾试验各种东西，主题不固定，从科技到日常都有。
+目前是脆皮英专生，偶尔会在自家[实验室](https://lab.gb0.dev)写文章以及折腾试验各种东西，主题不固定，从科技到日常都有。
 
 我也会做或者搬运视频，目前主要在 [bilibili](https://space.bilibili.com/1357023518) 发布。
 
@@ -23,7 +23,7 @@ date = 2024-03-27T17:57:05+08:00
   https://github.com/GrassBlock1
 - Twitter (now X)，目前和mastodon账号发布内容近乎一致：  https://x.com/Grass_block_cn
 - Matrix，目前作为备用： [@grass_block:mozilla.org](https://matrix.to/#/@grass_block:mozilla.org)
-- Email： hi[at]imgb[dot]space grassblock[at]envs[dot]net (backup)
+- Email： i[at]gb0[.]dev grassblock[at]envs[dot]net (backup)
 
 # 特别感谢
 [![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=GrassBlock1&utm_source=GrassBlock1&utm_campaign=oss)
