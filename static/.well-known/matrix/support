@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "email_address": "i@gb0.dev",
+      "matrix_id": "@grass_block:mozilla.org",
+      "role": "m.role.admin"
+    },
+    {
+      "email_address": "security@gb0.dev",
+      "role": "m.role.security"
+    }
+  ],
+  "support_page": "https://www.bilibili.com/video/BV1PC4y1L7mq/"
+}
