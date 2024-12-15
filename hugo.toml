@@ -89,6 +89,9 @@ disableKinds = ['rss']
     name = "GrassBlock" # Your name as shown in the RSS feed metadata
     email = "hi@imgb.space" # Added to the footer so readers can reply to posts
 
+  [params.webring]
+    username = "grassblock"
+
 
 
 [menus]
