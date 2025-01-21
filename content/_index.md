@@ -13,7 +13,7 @@ date = 2024-03-27T17:57:05+08:00
 有关我的更多信息，可以在[这里](/about)找到。
 ## 链接
 你可以通过以下方式找到我：
-> Keyoxide (all in one): `aspe:keyoxide.org:TDV34YWWXOV27633V7NNYH3QHU` | [view on keyoxide.org](https://keyoxide.org/aspe%3Akeyoxide.org%3ATDV34YWWXOV27633V7NNYH3QHU)
+> Keyoxide (all in one): `aspe:gb0.dev:TDV34YWWXOV27633V7NNYH3QHU` | [view on keyoxide.org](https://keyoxide.org/aspe%3Agb0.dev%3ATDV34YWWXOV27633V7NNYH3QHU)
 
 - Telegram，我最为常用的IM： [@Grass_Block](tg://user?id=616760897)
 - ActivityPub
