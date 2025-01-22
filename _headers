@@ -1,0 +1,6 @@
+# openpgp
+/.well-known/openpgpkey/*
+    Access-Control-Allow-Headers: content-type,x-requested-with,user-agent,accept,origin,authorization
+# matrix
+/.well-known/matrix/*
+    Content-Type: application/json
