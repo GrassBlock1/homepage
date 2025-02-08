@@ -41,6 +41,6 @@ code: `<a href="https://gb0.dev"><img src="https://gb0.dev/images/button.gif" al
 # 特别感谢
 [![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=GrassBlock1&utm_source=GrassBlock1&utm_campaign=oss)
 
-
-
 {{< webring >}}
+
+{{< counter >}}
