@@ -26,8 +26,21 @@ date = 2024-03-27T17:57:05+08:00
 - Twitter (now X)，目前和mastodon账号发布内容近乎一致：  https://x.com/Grass_block_cn
 - Matrix，目前作为备用： [@grass_block:mozilla.org](https://matrix.to/#/@grass_block:mozilla.org)
 - Email： i[at]gb0[.]dev grassblock[at]envs[dot]net (backup)
+# 一些贴纸
+看看这些：
+
+[![use Firefox and take back the web!](images/buttons/firefox.png)](https://www.mozilla.org/zh-CN/firefox/)
+{{< third-party-buttons >}}
+
+我自己的贴纸：
+
+![bandage to gb0.dev](images/button.gif)
+
+code: `<a href="https://gb0.dev"><img src="https://gb0.dev/images/button.gif" alt="bandage to gb0.dev" title="A random block"></a>`
 
 # 特别感谢
 [![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=GrassBlock1&utm_source=GrassBlock1&utm_campaign=oss)
+
+
 
 {{< webring >}}
