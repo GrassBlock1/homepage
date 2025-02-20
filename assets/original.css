@@ -79,6 +79,16 @@ img {
     max-width: 100%;
 }
 
+img#robot {
+    content: url(https://stellophiliac.github.io/roboring/ms_robot.svg);
+    height: 1em;
+    vertical-align: middle;
+    margin-right: 0.5em;
+}
+img#robot:hover {
+    content: url(https://stellophiliac.github.io/roboring/ms_robot_cheery.png);
+}
+
 code {
     padding: 2px 5px;
     color: #f8f8f2;
